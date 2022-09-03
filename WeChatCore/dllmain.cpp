@@ -38,6 +38,6 @@ BOOL APIENTRY DllMain(HMODULE hModule,
 
 VOID DoAction() {
 	AutoLoadImage();
-	ChangeVersion(1661404715);
+	ChangeVersion(LATEST_VERSION);
 
 }
