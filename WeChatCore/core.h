@@ -19,7 +19,7 @@ struct WxString
 
 #define AUTO_DOWNLOAD_IMG_OFFSET 0x2255C08
 #define CHANGE_VERSION_OFFSET 0x223d90c
-#define LATEST_VERSION 1661468699
+#define LATEST_VERSION 1661468954
 
 DWORD GetWeChatWinBase();
 VOID ChangeVersion(DWORD latestVersion);
